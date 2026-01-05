@@ -19,7 +19,6 @@ line_number_start: 1
 line_highlights: 
 ---
 print('Hello!')
---- /code ---
 </div>
 
 <div class="c-project-output">
