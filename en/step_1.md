@@ -10,6 +10,7 @@ You can use the `print()` function in Python, to write text.
 Try printing `Hello`, by adding the following code and clicking the **Run** button.
 
 <div class="c-project-code">
+
 --- code ---
 ---
 language: python
@@ -19,6 +20,8 @@ line_number_start: 1
 line_highlights: 
 ---
 print('Hello!')
+--- /code ---
+
 </div>
 
 <div class="c-project-output">
