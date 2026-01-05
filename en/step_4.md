@@ -1,73 +1,24 @@
-## ASCII art
-
-Let’s print something much more fun than text: ASCII art! ASCII art (pronounced '_ask-e_') is creating __pictures out of text__.
-
+<h2 class="c-project-heading--task">Challenge</h2>
 --- task ---
-
-Let's add some art to your program — a picture of a dog!
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 3-5
----
-print('Hi, I can code in Python!')
-
-print('here's a picture of a dog:')
-print('o____ ')
-print(' |||| ")
---- /code ---
-
+Make it personal
 --- /task ---
 
-The dog's legs are made using the pipe character `|` which you can type by pressing <kbd>Shift + \ </kbd> on most UK/US English keyboards. 
+Write a Python program to tell others about yourself using text and ASCII art. You can create images of your hobbies, friends, or anything you like!
 
+<div class="c-project-output">
+<pre>
+My favourite animals are sheep
 
-If you click **Run**, you'll see that there's a bug in your new code.
+ o-###-
+   | |   #
 
+I live in Glasgow
 
-That's because your text contains an apostrophe `'`, which Python thinks is the end of the text!
-
---- task ---
-
-To fix this, just put a backslash `\` before the apostrophe in the word `here's`. 
-
-This tells Python that the apostrophe is part of the text.
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 3
----
-print('Hi, I can code in Python!')
-
-print('here\'s a picture of a dog:')
-print('o____ ')
-print(' |||| ")
---- /code ---
---- /task ---
-
-If you prefer, you can use three apostrophes `'''` instead of one, which allows you to print multiple lines of text with one `print` statement:
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 3-7
----
-print('Hi, I can code in Python!')
-
-print('''
-here's a picture of a dog:
-o____ 
- ||||
- ''')
---- /code ---
+   _|_
+  |   |
+  |#  |____
+  |   |    |
+  |  #|  # |
+ _|___|_#__|_
+ /pre>
+</div>

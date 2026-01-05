@@ -14,7 +14,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 3-5
+line_highlights: 3-7
 ---
 print('Hi, I can code in Python!')
 
@@ -36,6 +36,6 @@ o____
 
 ### Tip
 
-The legs of the dog use the **pipe** symbol. You can find this using <kbd>Shift + \ </kbd>.
+The legs of the dog use the **pipe** symbol. You can find this using <kbd>Shift + \ </kbd>
 
 </div>

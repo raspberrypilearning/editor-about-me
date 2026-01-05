@@ -1,35 +1,36 @@
---- challenge ---
+<h2 class="c-project-heading--task">Printing your future age</h2>
+--- task ---
+You can add your future age into a sentence.
+--- /task ---
 
-## Challenge: calculating text
-Did you know that you can also calculate text?!
+<h2 class="c-project-heading--explainer">Storing and printing your age</h2>
 
-What will the following program print to the screen? See if you can guess it correctly before running the program.
+Instead of printing your future age straight away, it can be stored, and then used in a sentence.
 
-```
-print('ha ' * 4)
-print('ba' + 'na' *2)
-print('Hello' + '!' *10)
-```
+<div class="c-project-code">
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 9
+line_highlights: 12
+---
+born = input('What year were you born?')
+born = int(born)
+age = 2050 - born
+print('In the year 2050 you will be', age, 'years old!')
+--- /code ---
+</div>
 
-Can you make up any words of your own? You could even make your own patterns!
+Click **Run**, and type in your year of birth.
 
-```
-print('Here is a scarf:')
-print('~#' * 10)
-print('#-' * 10)
-print('Here is a wave:')
-print('/\  ' * 10)
-print('  \/' * 10)
-```
+<div class="c-project-callout c-project-callout--debug">
 
-This will output the following:
+### Debugging
 
-```
-Here is a scarf:
-~#~#~#~#~#~#~#~#~#~#
-#-#-#-#-#-#-#-#-#-#-
-Here is a wave:
-/\  /\  /\  /\  /\  /\  /\  /\  /\  /\  
-  \/  \/  \/  \/  \/  \/  \/  \/  \/  \/
-```
---- /challenge ---
+Make sure you are closing and opening the quotes, either side of where you add in `age`, as well as adding the commas `,`.
+
+`'`In the year 2050 you will be`'``,` age`,` `'`years old!`'`)
+
+</div>

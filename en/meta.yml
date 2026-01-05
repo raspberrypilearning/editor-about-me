@@ -17,16 +17,20 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Introduction
-- title: Saying hello
-- title: 'Challenge: what''s on your mind?'
-- title: ASCII art
+- title: Step 1
+- title: Step 2
   completion:
   - engaged
-- title: 'Challenge: about yourself'
-- title: The year 2035
+- title: Step 3
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
+- title: Step 8
+- title: Step 9
+- title: Step 10
   completion:
   - internal
   - external
-- title: 'Challenge: your age in dog years'
-- title: 'Challenge: calculating text'
+
+
