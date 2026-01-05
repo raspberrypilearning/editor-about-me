@@ -20,5 +20,5 @@ I live in Glasgow
   |   |    |
   |  #|  # |
  _|___|_#__|_
- /pre>
+ </pre>
 </div>

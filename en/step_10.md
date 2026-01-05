@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Printing LOTS of text</h2>
+<h2 class="c-project-heading--task">Printing MORE text</h2>
 What will the following lines print to the screen? See if you can guess it correctly before running the program.
 
 ```
@@ -29,3 +29,11 @@ Here is a wave:
 /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  
   \/  \/  \/  \/  \/  \/  \/  \/  \/  \/
 </pre>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Try changing the numbers. What happens if you multiply by 10000?.
+
+</div>

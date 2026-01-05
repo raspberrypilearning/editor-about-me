@@ -14,7 +14,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 9
+line_highlights: 9-10
 ---
 print('Hi, I can code in Python!')
 

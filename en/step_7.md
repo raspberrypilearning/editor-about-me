@@ -14,7 +14,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 9
+line_highlights: 10-11
 ---
 print('Hi, I can code in Python!')
 
@@ -23,10 +23,6 @@ here's a picture of a dog:
 o____ 
  ||||
  ''')
-
-born = input('What year were you born?')
-print(born)
-''')
 
 born = input('What year were you born?')
 born = int(born)
@@ -40,6 +36,7 @@ Click **Run**, and type in your year of birth. It should then print out how old 
 
 ### Tip
 
-Try removing the line `born = int(born)`. The program will give you an error message. If you see this message in the future, you will know it is probably because you forgot to convert some input.
+Try removing the line `born = int(born)`. The program will give you an error message. It means it can't do calculations with text.
+If you see this message in the future, you will know it is probably because you forgot to convert some text to numbers.
 
 </div>

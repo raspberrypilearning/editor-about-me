@@ -34,6 +34,6 @@ Click **Run**, and your program should print your age in the year 2035.
 
 ### Tip
 
-Numbers do not need quotes around them in python.
+Numbers do not need quotes around them to print in python.
 
 </div>

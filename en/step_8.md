@@ -14,7 +14,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 9
-line_highlights: 12
+line_highlights: 11-12
 ---
 born = input('What year were you born?')
 born = int(born)
@@ -31,6 +31,6 @@ Click **Run**, and type in your year of birth.
 
 Make sure you are closing and opening the quotes, either side of where you add in `age`, as well as adding the commas `,`.
 
-`'`In the year 2050 you will be`'``,` age`,` `'`years old!`'`)
+`'In the year 2050 you will be', age, 'years old!'`
 
 </div>

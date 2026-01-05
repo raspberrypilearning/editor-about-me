@@ -7,7 +7,8 @@ You can calculate a person’s age in dog years by multiplying their age by 7.
 
 <div class="c-project-output">
 <pre>
-What is your age? 9
+What is your age?
+9
 If you were a dog, you'd be 63 !!
 o____
  ||||
