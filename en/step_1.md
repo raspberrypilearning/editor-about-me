@@ -32,8 +32,8 @@ print('Hello!')
 ### Tip
 
 Parenthesis `()` and quotation marks `''` are important in Python.
-- Try deleting one or both `(`/`)` and clicking on **Run** again.
-- Try deleting one or both `'` and clicking on **Run** again
+  - Try deleting one or both `(`/`)` and clicking on **Run** again.
+  - Try deleting one or both `'` and clicking on **Run** again
 
 </div>
 
