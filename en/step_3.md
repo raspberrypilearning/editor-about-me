@@ -23,6 +23,7 @@ here's a picture of a dog:
 o____ 
  ||||
  ''')
+ --- /code ---
 </div>
 
 <div class="c-project-output">
