@@ -29,6 +29,7 @@ Here is a wave:
 /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  
   \/  \/  \/  \/  \/  \/  \/  \/  \/  \/
 </pre>
+</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
