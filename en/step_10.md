@@ -1,5 +1,4 @@
 <h2 class="c-project-heading--task">Printing LOTS of text</h2>
---- task ---
 What will the following lines print to the screen? See if you can guess it correctly before running the program.
 
 ```
