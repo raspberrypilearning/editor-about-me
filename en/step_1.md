@@ -1,19 +1,45 @@
-## Introduction
+<h2 class="c-project-heading--task">Say Hello!</h2>
+--- task ---
+Use Python to write some text.
+--- /task ---
 
-In this project you will learn how to write a Python program telling people all about you.
+<h2 class="c-project-heading--explainer">Printing/h2>
 
-### What you will make
+You can use the `print()` function in Python, to write text.
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/about-me-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
+Try printing `Hello`, by adding the following code and clicking the **Run** button.
 
---- collapse ---
+<div class="c-project-code">
+--- code ---
 ---
-title: Additional information for educators
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 
 ---
-### Additional information for educators
+print('Hello!')
+--- /code ---
+</div>
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/about-me/print){:target="_blank"}.
+<div class="c-project-output">
+<pre>Hello!</pre>
+</div>
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+<div class="c-project-callout c-project-callout--tip">
 
---- /collapse ---
+### Tip
+
+Parenthesis `()` and quotation marks `''` are important in Python.
+- Try deleting one or both `(`/`)` and clicking on **Run** again.
+- Try deleting one or both `'` and clicking on **Run** again
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+When you make an error in your code, you will get an error message. They may not make much sense to begin with, but you will soon learn to understand different error messages.
+
+</div>
