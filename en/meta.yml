@@ -1,14 +1,32 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
-listed: false
-pdf: false
+---
+hero_image: images/about-me.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: About me
+description: Use the Python programming language to create pictures out of text
+original_url: https://codeclubprojects.org/en-GB/python/about-me
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Introduction
+- title: Saying hello
+- title: 'Challenge: what''s on your mind?'
+- title: ASCII art
+  completion:
+  - engaged
+- title: 'Challenge: about yourself'
+- title: The year 2035
+  completion:
+  - internal
+  - external
+- title: 'Challenge: your age in dog years'
+- title: 'Challenge: calculating text'

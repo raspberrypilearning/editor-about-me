@@ -1,6 +1,11 @@
-## Challenge
+--- challenge ---
 
---- task ---
+## Challenge: What's on your mind?
 
+Change the code you just wrote to print something more interesting about you!
 
---- /task ---
+```
+Hi, I can code in Python!
+```
+
+--- /challenge ---
