@@ -3,9 +3,11 @@
 Draw some pictures with ASCII art.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Using three `'`</h2>
+<h2 class="c-project-heading--explainer">Using three <code>'</code></h2>
 
-Sometimes you want to print more than one line at a time. You can use three quotiation marks to do this `'''`.
+Sometimes you want to print more than one line.
+
+You can do this by using three quotation marks: `'''`
 
 <div class="c-project-code">
 --- code ---
@@ -23,7 +25,7 @@ here's a picture of a dog:
 o____ 
  ||||
  ''')
- --- /code ---
+--- /code ---
 </div>
 
 <div class="c-project-output">
@@ -36,6 +38,9 @@ o____
 
 ### Tip
 
-The legs of the dog use the **pipe** symbol. You can find this using <kbd>Shift + \ </kbd>
+ASCII art means making pictures using letters and symbols.
+
+The legs of the dog use the *pipe* symbol.  
+You can find this using <kbd>Shift + \</kbd>.
 
 </div>

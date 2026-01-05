@@ -1,5 +1,3 @@
-![](images/banner.png)
-
 <h2 class="c-project-heading--task">Say Hello!</h2>
 --- task ---
 Use Python to write some text.
@@ -7,9 +5,10 @@ Use Python to write some text.
 
 <h2 class="c-project-heading--explainer">Printing</h2>
 
-You can use the `print()` function in Python, to write text.
+You can use the `print()` function in Python to show text on the screen.
 
-Try printing `Hello`, by adding the following code and clicking the **Run** button.
+Add the code below.  
+Then click the *Run* button.
 
 <div class="c-project-code">
 --- code ---
@@ -18,11 +17,9 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 
 ---
 print('Hello!')
 --- /code ---
-
 </div>
 
 <div class="c-project-output">
@@ -33,9 +30,12 @@ print('Hello!')
 
 ### Tip
 
-Parenthesis `()` and quotation marks `''` are important in Python.
-  - Try deleting one or both `(`/`)` and clicking on **Run** again.
-  - Try deleting one or both `'` and clicking on **Run** again
+Parentheses `()` are the round brackets used in code.  
+Quotation marks `''` tell Python what text to show.
+
+Try this:
+- Delete one `(` or `)` and click *Run*
+- Delete one `'` and click *Run*
 
 </div>
 
@@ -43,6 +43,12 @@ Parenthesis `()` and quotation marks `''` are important in Python.
 
 ### Debugging
 
-When you make an error in your code, you will get an error message. They may not make much sense to begin with, but you will soon learn to understand different error messages.
+If something goes wrong, don’t worry.  
+This usually means there is a small mistake.
+
+Python will show an error message.  
+At first, these messages might be confusing. That’s OK!  
+You will learn what they mean as you practise.
 
 </div>
+

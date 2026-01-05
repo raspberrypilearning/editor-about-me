@@ -3,9 +3,9 @@
 Python can ask for data, store it, and then use it.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">`input()`</h2>
+<h2 class="c-project-heading--explainer"><code>input()</code></h2>
 
-The program can ask you what year you were born in, using the `input()` function.
+The program can ask you what year you were born using the `input()` function.
 
 <div class="c-project-code">
 --- code ---
@@ -29,5 +29,5 @@ print(born)
 --- /code ---
 </div>
 
-Click **Run**, and type in your year of birth. It should then print out what you typed.
-
+Click *Run*, and type in your year of birth.  
+The program will then show what you typed.

@@ -3,9 +3,9 @@
 Calculate your future age.
 --- /task ---
 
-<h2 class="c-project-heading--explainer">Maths in python</h2>
+<h2 class="c-project-heading--explainer">Maths in Python</h2>
 
-To calculate how old you will be in the year 2050, you subtract the year you were born from 2050.
+To work out how old you will be in the year 2050, take the year you were born away from 2050.
 
 <div class="c-project-code">
 --- code ---
@@ -24,16 +24,17 @@ o____
  ||||
  ''')
 
- print(2050 - 2015)
+print(2050 - 2015)
 --- /code ---
 </div>
 
-Click **Run**, and your program should print your age in the year 2035.
+Click <strong>Run</strong>.  
+Your program should show your age in the year 2035.
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Numbers do not need quotes around them to print in python.
+Numbers do not need quotation marks in Python.
 
 </div>
