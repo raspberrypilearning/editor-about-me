@@ -1,3 +1,5 @@
+![](images/banner.png)
+
 <h2 class="c-project-heading--task">Say Hello!</h2>
 --- task ---
 Use Python to write some text.
