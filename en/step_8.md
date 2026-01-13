@@ -29,8 +29,7 @@ Click *Run*, and type in your year of birth.
 
 ### Debugging
 
-Make sure that:
-- Every quote `'` has a matching `'`
+Make suropening quote `'` has a matching closing quote `'`
 - Every bracket `(` has a `)`
 - You have commas between the text and the number
 
