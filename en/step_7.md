@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Calculating with input</h2>
+
 ### Step 1
 All input is text, so it needs converting to numbers before it can be used.
 

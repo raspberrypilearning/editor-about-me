@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Art with text</h2>
+
 ### Step 1
 Draw some pictures with ASCII art.
 
