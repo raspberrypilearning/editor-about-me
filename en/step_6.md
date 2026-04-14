@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Asking for data</h2>
---- task ---
+### Step 1
 Python can ask for data, store it, and then use it.
---- /task ---
 
 <h2 class="c-project-heading--explainer"><code>input()</code></h2>
 

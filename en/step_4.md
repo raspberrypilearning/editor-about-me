@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Challenge</h2>
---- task ---
+### Step 1
 Make it personal
---- /task ---
 
 Write a Python program to tell people about yourself using text and ASCII art.
 

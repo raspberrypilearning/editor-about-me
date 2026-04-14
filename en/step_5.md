@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">How old will you be in...</h2>
---- task ---
+### Step 1
 Calculate your future age.
---- /task ---
 
 <h2 class="c-project-heading--explainer">Maths in Python</h2>
 

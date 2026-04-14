@@ -16,21 +16,21 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-  completion:
-  - engaged
-- title: Step 3
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-- title: Step 8
-- title: Step 9
-- title: Step 10
-  completion:
-  - internal
-  - external
-
-
+  - title: Say Hello!
+  - title: Challenge
+    completion:
+      - engaged
+  - title: Art with text
+  - title: Challenge
+  - title: "How old will you be in..."
+  - title: Asking for data
+  - title: Calculating with input
+  - title: Printing your future age
+  - title: Challenge
+    completion:
+      - internal
+  - title: Printing MORE text
+    completion:
+      - external

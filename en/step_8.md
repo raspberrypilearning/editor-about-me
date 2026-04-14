@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Printing your future age</h2>
---- task ---
+### Step 1
 You can add your future age into a sentence.
---- /task ---
 
 <h2 class="c-project-heading--explainer">Storing and printing your age</h2>
 

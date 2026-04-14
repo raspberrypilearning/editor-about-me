@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Calculating with input</h2>
---- task ---
+### Step 1
 All input is text, so it needs converting to numbers before it can be used.
---- /task ---
 
 <h2 class="c-project-heading--explainer">Converting text to numbers</h2>
 

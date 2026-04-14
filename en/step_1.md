@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Say Hello!</h2>
---- task ---
+### Step 1
 Use Python to write some text.
---- /task ---
 
 <h2 class="c-project-heading--explainer">Printing</h2>
 
@@ -51,4 +50,3 @@ At first, these messages might be confusing. That’s OK!
 You will learn what they mean as you practise.
 
 </div>
-

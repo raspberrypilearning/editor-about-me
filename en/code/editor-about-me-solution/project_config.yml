@@ -1,3 +1,4 @@
 name: 'About me starter'
 identifier: 'editor-about-me-solution'
 type: 'python'
+build: true

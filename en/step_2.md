@@ -1,7 +1,6 @@
 <h2 class="c-project-heading--task">Challenge</h2>
---- task ---
+### Step 1
 Write something about yourself.
---- /task ---
 
 Change the code you just wrote so it prints something about you.
 
