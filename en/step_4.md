@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-### Step 1
 Make it personal
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Write a Python program to tell people about yourself using text and ASCII art.
 
@@ -24,3 +25,7 @@ I live in Glasgow
  _|___|_#__|_
 </pre>
 </div>
+
+## Now run your code
+
+Confirm the observable result.

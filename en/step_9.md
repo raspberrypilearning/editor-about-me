@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-### Step 1
 Write a program to ask the user their age, and then tell them their age in dog years!
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 You can calculate a person’s age in dog years by multiplying their age by 7.
 
@@ -15,11 +16,15 @@ o____
 </pre>
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 In programming, the symbol for **multiplication** is the `*` character.  
 You can usually type this by pressing <kbd>Shift + 8</kbd>.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

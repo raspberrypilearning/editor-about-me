@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">Say Hello!</h2>
 
-### Step 1
 Use Python to write some text.
 
 <h2 class="c-project-heading--explainer">Printing</h2>
@@ -26,9 +25,9 @@ print('Hello!')
 <pre>Hello!</pre>
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Parentheses `()` are the round brackets used in code.  
 Quotation marks `''` tell Python what text to show.
@@ -39,9 +38,9 @@ Try this:
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 If something goes wrong, don’t worry.  
 This usually means there is a small mistake.
@@ -51,3 +50,7 @@ At first, these messages might be confusing. That’s OK!
 You will learn what they mean as you practise.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">Asking for data</h2>
 
-### Step 1
 Python can ask for data, store it, and then use it.
 
 <h2 class="c-project-heading--explainer"><code>input()</code></h2>
@@ -31,3 +30,7 @@ print(born)
 
 Click *Run*, and type in your year of birth.  
 The program will then show what you typed.
+
+## Now run your code
+
+Confirm the observable result.

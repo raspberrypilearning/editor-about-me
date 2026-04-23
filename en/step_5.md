@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">How old will you be in...</h2>
 
-### Step 1
 Calculate your future age.
 
 <h2 class="c-project-heading--explainer">Maths in Python</h2>
@@ -31,10 +30,14 @@ print(2050 - 2015)
 Click <strong>Run</strong>.  
 Your program should show your age in the year 2050.
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Numbers do not need quotation marks in Python.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

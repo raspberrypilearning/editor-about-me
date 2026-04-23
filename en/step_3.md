@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">Art with text</h2>
 
-### Step 1
 Draw some pictures with ASCII art.
 
 <h2 class="c-project-heading--explainer">Using three <code>'</code></h2>
@@ -34,9 +33,9 @@ o____
 </pre>
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 ASCII art means making pictures using letters and symbols.
 
@@ -44,3 +43,7 @@ The legs of the dog use the *pipe* symbol.
 You can find this using <kbd>Shift + \</kbd>.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">Calculating with input</h2>
 
-### Step 1
 All input is text, so it needs converting to numbers before it can be used.
 
 <h2 class="c-project-heading--explainer">Converting text to numbers</h2>
@@ -35,9 +34,9 @@ print(2050 - born)
 
 Click *Run*, and type in your year of birth.
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Try commenting this line:
 
@@ -47,3 +46,7 @@ You'll see an error message, it means Python tried to do maths with text.
 
 Don't forget to uncomment it after you've seen the message.
 </div>
+
+## Now run your code
+
+Confirm the observable result.

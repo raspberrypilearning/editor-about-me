@@ -1,6 +1,5 @@
 <h2 class="c-project-heading--task">Printing your future age</h2>
 
-### Step 1
 You can add your future age into a sentence.
 
 <h2 class="c-project-heading--explainer">Storing and printing your age</h2>
@@ -25,12 +24,16 @@ print('In the year 2050 you will be', age, 'years old!')
 
 Click *Run*, and type in your year of birth.
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Make suropening quote `'` has a matching closing quote `'`
 - Every bracket `(` has a `)`
 - You have commas between the text and the number
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

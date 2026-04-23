@@ -1,5 +1,10 @@
 <h2 class="c-project-heading--task">Printing MORE text</h2>
-What will the following lines print to the screen? See if you can guess it correctly before running the program.
+
+What will the following lines print to the screen?
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+See if you can guess it correctly before running the program.
 
 ```
 print('ha ' * 4)
@@ -31,10 +36,14 @@ Here is a wave:
 </pre>
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Try changing the numbers. What happens if you multiply by 10000?.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
