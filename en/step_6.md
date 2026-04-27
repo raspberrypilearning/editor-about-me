@@ -33,4 +33,4 @@ The program will then show what you typed.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run*, type your birth year, and check that the same year is printed back to you.

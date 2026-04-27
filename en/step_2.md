@@ -15,4 +15,4 @@ Try something simple first.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that the output now shows the text you wrote about yourself.

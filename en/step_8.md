@@ -36,4 +36,4 @@ Make suropening quote `'` has a matching closing quote `'`
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run*, type your birth year, and check that the program prints a sentence telling you how old you will be in 2050.

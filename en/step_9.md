@@ -27,4 +27,4 @@ You can usually type this by pressing <kbd>Shift + 8</kbd>.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run*, type your age, and check that the program tells you your age in dog years and shows your dog picture.

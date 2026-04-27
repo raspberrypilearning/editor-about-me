@@ -40,4 +40,4 @@ Numbers do not need quotation marks in Python.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that the program shows how old you will be in the year 2050.

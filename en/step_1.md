@@ -53,4 +53,4 @@ You will learn what they mean as you practise.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that `Hello!` appears in the output.

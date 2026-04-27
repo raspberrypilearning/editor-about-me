@@ -46,4 +46,4 @@ You can find this using <kbd>Shift + \</kbd>.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that a dog made from text appears in the output.

@@ -49,4 +49,4 @@ Don't forget to uncomment it after you've seen the message.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run*, type your birth year, and check that the program shows how old you will be in 2050.

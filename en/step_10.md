@@ -46,4 +46,4 @@ Try changing the numbers. What happens if you multiply by 10000?.
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that the repeated symbols make a scarf pattern and a wave pattern in the output.

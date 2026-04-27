@@ -28,4 +28,4 @@ I live in Glasgow
 
 ## Now run your code
 
-Confirm the observable result.
+Click *Run* and check that your program shows your own text and ASCII art in the output.
