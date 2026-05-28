@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-Write something about yourself.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Change the code you just wrote so it prints something about you.
 
 <div class="c-project-output">

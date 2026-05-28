@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-Make it personal
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Write a Python program to tell people about yourself using text and ASCII art.
 
 You can create pictures of your hobbies, friends, or anything you like!
