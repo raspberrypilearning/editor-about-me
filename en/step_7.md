@@ -42,7 +42,7 @@ Try commenting this line:
 
 `#born = int(born)`
 
-You'll see an error message, it means Python tried to do maths with text.
+You'll see an error message. This means Python tried to do maths with text.
 
 Don't forget to uncomment it after you've seen the message.
 </div>
