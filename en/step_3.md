@@ -4,7 +4,7 @@ Draw some pictures with ASCII art.
 
 <h2 class="c-project-heading--explainer">Using three <code>'</code></h2>
 
-Sometimes you want to print more than one line.
+Sometimes, you want to print more than one line.
 
 You can do this by using three quotation marks: `'''`
 
@@ -20,7 +20,7 @@ line_highlights: 3-7
 print('Hi, I can code in Python!')
 
 print('''
-here's a picture of a dog:
+Here's a picture of a dog:
 o____ 
  ||||
  ''')
