@@ -39,11 +39,11 @@ o____
 
 ASCII art means making pictures using letters and symbols.
 
-The legs of the dog use the *pipe* symbol.  
+The legs of the dog use the **pipe** symbol.  
 You can find this using <kbd>Shift + \</kbd>.
 
 </div>
 
 ## Now run your code
 
-Click *Run* and check that a dog made from text appears in the output.
+Click **Run** and check that a dog made from text appears in the output. 
