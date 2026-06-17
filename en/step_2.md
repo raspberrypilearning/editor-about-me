@@ -11,4 +11,4 @@ Try something simple first.
 
 ## Now run your code
 
-Click *Run* and check that the output now shows the text you wrote about yourself.
+Click **Run** and check that the output now shows the text you wrote about yourself.
