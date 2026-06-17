@@ -32,13 +32,13 @@ print(2050 - born)
 --- /code ---
 </div>
 
-Click *Run*, and type in your year of birth.
+Click **Run**, and type in your year of birth.
 
 ### Tip
 
 <div class="c-project-callout c-project-callout--tip">
 
-Try commenting this line:
+Try commenting out this line so Python ignores it:
 
 `#born = int(born)`
 
@@ -49,4 +49,4 @@ Don't forget to uncomment it after you've seen the message.
 
 ## Now run your code
 
-Click *Run*, type your birth year, and check that the program shows how old you will be in 2050.
+Click **Run**, type your birth year, and check that the program shows how old you will be in 2050.
