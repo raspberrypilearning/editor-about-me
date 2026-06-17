@@ -22,13 +22,13 @@ print('In the year 2050 you will be', age, 'years old!')
 --- /code ---
 </div>
 
-Click *Run*, and type in your year of birth.
+Click **Run**, and type in your year of birth.
 
 ### Debugging
 
 <div class="c-project-callout c-project-callout--debug">
 
-Make suropening quote `'` has a matching closing quote `'`
+Make sure the opening quote `'` has a matching closing quote `'` and that:
 - Every bracket `(` has a `)`
 - You have commas between the text and the number
 
@@ -36,4 +36,4 @@ Make suropening quote `'` has a matching closing quote `'`
 
 ## Now run your code
 
-Click *Run*, type your birth year, and check that the program prints a sentence telling you how old you will be in 2050.
+Click **Run**, type your birth year, and check that the program prints a sentence telling you how old you will be in 2050.
