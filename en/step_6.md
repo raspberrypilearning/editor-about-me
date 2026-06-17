@@ -28,9 +28,9 @@ print(born)
 --- /code ---
 </div>
 
-Click *Run*, and type in your year of birth.  
+Click **Run**, and type in your year of birth.  
 The program will then show what you typed.
 
 ## Now run your code
 
-Click *Run*, type your birth year, and check that the same year is printed back to you.
+Click **Run**, type your birth year, and check that the same year is printed back to you.
