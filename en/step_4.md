@@ -24,4 +24,4 @@ I live in Glasgow
 
 ## Now run your code
 
-Click *Run* and check that your program shows your own text and ASCII art in the output.
+Click **Run** and check that your program shows your own text and ASCII art in the output.
