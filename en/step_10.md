@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Printing MORE text</h2>
+## Printing MORE text
 
 What will the following lines print to the screen?
 
@@ -23,24 +23,18 @@ print('  \/' * 10)
 
 This will output the following:
 
-<div class="c-project-output">
-<pre>
+```
 Here is a scarf:
 ~#~#~#~#~#~#~#~#~#~#
 #-#-#-#-#-#-#-#-#-#-
 Here is a wave:
 /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  
   \/  \/  \/  \/  \/  \/  \/  \/  \/  \/
-</pre>
-</div>
+```
 
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-Try changing the numbers. What happens if you multiply by 10000?.
-
-</div>
+> [!TIP]
+>
+> Try changing the numbers. What happens if you multiply by 10000?
 
 ## Now run your code
 

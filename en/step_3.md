@@ -1,22 +1,14 @@
-<h2 class="c-project-heading--task">Art with text</h2>
+## Art with text
 
 Draw some pictures with ASCII art.
 
-<h2 class="c-project-heading--explainer">Using three <code>'</code></h2>
+### Using three `'`
 
 Sometimes, you want to print more than one line.
 
 You can do this by using three quotation marks: `'''`
 
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 3-7
----
+```python filename="main.py" line_numbers="true" line_number_start="1" line_highlights="3-7"
 print('Hi, I can code in Python!')
 
 print('''
@@ -24,25 +16,19 @@ Here's a picture of a dog:
 o____ 
  ||||
  ''')
---- /code ---
-</div>
+```
 
-<div class="c-project-output">
-<pre>o____ 
+```
+o____ 
  ||||
-</pre>
-</div>
+```
 
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-ASCII art means making pictures using letters and symbols.
-
-The legs of the dog use the **pipe** symbol.  
-You can find this using <kbd>Shift + \</kbd>.
-
-</div>
+> [!TIP]
+>
+> ASCII art means making pictures using letters and symbols.
+>
+> The legs of the dog use the **pipe** symbol.  
+> You can find this using <kbd>Shift + \</kbd>.
 
 ## Now run your code
 
