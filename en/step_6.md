@@ -2,8 +2,6 @@
 
 Python can ask for data, store it, and then use it.
 
-### `input()`
-
 The program can ask you what year you were born using the `input()` function.
 
 ```python filename="main.py" line_numbers="true" line_number_start="1" line_highlights="9-10"

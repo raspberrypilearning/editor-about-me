@@ -2,8 +2,6 @@
 
 You can add your future age into a sentence.
 
-### Storing and printing your age
-
 Instead of printing your future age straight away, you can store it and then use it in a sentence.
 
 ```python filename="main.py" line_numbers="true" line_number_start="9" line_highlights="11-12"

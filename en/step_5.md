@@ -2,8 +2,6 @@
 
 Calculate your future age.
 
-### Maths in Python
-
 To work out how old you will be in the year 2050, take the year you were born away from 2050.
 
 ```python filename="main.py" line_numbers="true" line_number_start="1" line_highlights="9"

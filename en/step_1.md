@@ -2,8 +2,6 @@
 
 Use Python to write some text.
 
-### Printing
-
 You can use the `print()` function in Python to show text on the screen.
 
 Add the code below.  

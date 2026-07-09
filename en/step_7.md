@@ -2,8 +2,6 @@
 
 All input is text, so it needs converting to numbers before it can be used.
 
-### Converting text to numbers
-
 If you try to do maths with data from `input()`, you will get an error.
 
 You need to turn the text into a number first.  

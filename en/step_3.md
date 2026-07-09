@@ -2,8 +2,6 @@
 
 Draw some pictures with ASCII art.
 
-### Using three `'`
-
 Sometimes, you want to print more than one line.
 
 You can do this by using three quotation marks: `'''`
